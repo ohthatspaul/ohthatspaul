@@ -1,10 +1,7 @@
-### Hi there 👋
-
 
 ### Hi there, I'm <a href="https://www.linkedin.com/in/talent-mavingire/" target="_blank">Talent Mavingire</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on writing a lot of Java and TypeScript code
-- 👯 I’m looking to collaborate on  
+- 🔭 I’m currently working on writing a lot of Java and Python code
 - 💬 Ask me about anything, I'm happy to help
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm still searching for my talent!
@@ -33,6 +30,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 👯 I’m looking to collaborate on interesting & fun projects
 
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dangillis.dev/)
