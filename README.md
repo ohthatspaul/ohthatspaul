@@ -1,7 +1,7 @@
 
 ### Hi there, I'm <a href="https://www.linkedin.com/in/talent-mavingire/" target="_blank">Talent Mavingire</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on writing a lot of Java and Python code
+- 🔭 Have a project in mind? Let's connect. 
 - 💬 Ask me about anything, I'm happy to help
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm still searching for my talent!
