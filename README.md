@@ -1,12 +1,12 @@
 
 ### Hi there, I'm <a href="https://www.linkedin.com/in/talent-mavingire/" target="_blank">Talent Mavingire</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
- 💬 Ask me about anything, I'm happy to help.
- 😄 Pronouns: he/him/his.
- ⚡ Fun fact: I'm still searching for my talent!
+- 💬 Ask me about anything, I'm happy to help [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/talent-mavingire).
+- 😄 Pronouns: he/him/his.
+- ⚡ Fun fact: I'm still searching for my talent!
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/talent-mavingire)
+
 
 
 
